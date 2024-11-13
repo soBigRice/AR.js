@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import ArBaseControls from "./threex-arbasecontrols";
-import Worker from "./arjs-markercontrols-nft.worker.js";
+import Worker from "./arjs-markercontrols-nft.worker.js?worker";
 import jsartoolkit from "jsartoolkit"; // TODO comment explanation
 const { ARToolkit } = jsartoolkit;
 
